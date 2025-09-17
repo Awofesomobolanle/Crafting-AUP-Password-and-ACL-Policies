@@ -2,7 +2,7 @@ Crafting-AUP-Password-and-PMP-Policies
 
 A structured collection of security policy drafts, including:
 
-Acceptable Use Policy (AUP): Defines acceptable and prohibited activities for system and network use.
+Acceptable Use Policy (AUP): Defines acceptable and prohibited activities for system and network use Cybertouch Solutions_Privacy_Management_Policy_April2025.pdf.
 
 Password Policy: Establishes standards for secure password creation, usage, and management.
 
