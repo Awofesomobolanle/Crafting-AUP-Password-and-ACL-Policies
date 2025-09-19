@@ -2,9 +2,9 @@ Crafting-AUP-Password-and-PMP-Policies. Click the link for an [example](https://
 
 A structured collection of security policy drafts, including:
 
-Acceptable Use Policy (AUP): Defines acceptable and prohibited activities for system and network use. click the link for an [example](https://github.com/Awofesomobolanle/Crafting-AUP-Password-and-ACL-Policies/blob/e82315445247696f656f8aa429b01246f637b432/Cybertouch%20Solutions_Acceptable_Use_Standard_April2025%20Policy%20Template.pdf)
+Acceptable Use Policy (AUP): Defines acceptable and prohibited activities for system and network use. click the link for an [example]
 
-Password Policy: Establishes standards for secure password creation, usage, and management.
+Password Policy: Establishes standards for secure password creation, usage, and management. Click the link for an [example](https://github.com/Awofesomobolanle/Crafting-AUP-Password-and-ACL-Policies/blob/3c40417429fcc7fb767a9f6782ddf1c5cb7c9996/Cybertouch%20Solutions_Password_Construction_Standard_April2025.pdf)
 
 Privacy Management Policy (PMP): Outlines how personal and sensitive data should be collected, stored, and protected.
 
