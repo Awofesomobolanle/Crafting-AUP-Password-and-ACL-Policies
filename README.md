@@ -6,8 +6,7 @@ Acceptable Use Policy (AUP): Defines acceptable and prohibited activities for sy
 
 Password Policy: Establishes standards for secure password creation, usage, and management. Click the link for an [example](https://github.com/Awofesomobolanle/Crafting-AUP-Password-and-ACL-Policies/blob/3c40417429fcc7fb767a9f6782ddf1c5cb7c9996/Cybertouch%20Solutions_Password_Construction_Standard_April2025.pdf)
 
-Privacy Management Policy (PMP): Outlines how personal and sensitive data should be collected, stored, and protected.
-
+Privacy Management Policy (PMP): Outlines how personal and sensitive data should be collected, stored, and protected. Clickthe link for an [example](https://github.com/Awofesomobolanle/Crafting-AUP-Password-and-ACL-Policies/blob/87cfcc6ba155cfec8f27797a27bac76415c22dbe/Cybertouch%20Solutions_Privacy_Management_Policy_April2025.pdf)
 These policies are designed as customisable templates to help organisations:
 
 Establish clear security standards.
