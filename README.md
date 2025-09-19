@@ -1,4 +1,4 @@
-Crafting-AUP-Password-and-PMP-Policies
+Crafting-AUP-Password-and-PMP-Policies. Click the link for an [example](https://github.com/Awofesomobolanle/Crafting-AUP-Password-and-ACL-Policies/blob/7fc0a1c5bcce4640daa5aa0c8158905c384a4ec2/Cybertouch%20Solutions_Password_Construction_Standard_April2025.pdf)
 
 A structured collection of security policy drafts, including:
 
